@@ -1,0 +1,10 @@
+sbt compile
+compile
+clean
+compile
+clean
+compile
+sbt compile publishLocal
+compile publishLocal
+hello
+compile hello

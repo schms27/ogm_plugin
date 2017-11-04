@@ -1,0 +1,138 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Dateien\IntelliJ_Projects\OGMPlugin\target\scala-2.12\sbt-1.0\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> D:\Dateien\IntelliJ_Projects\OGMPlugin\target\scala-2.12\sbt-1.0\classes\main\scala\HelloPlugin$.class
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> D:\Dateien\IntelliJ_Projects\OGMPlugin\target\scala-2.12\sbt-1.0\classes\main\scala\HelloPlugin.class
+binary dependencies:
+6 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> C:\Users\Simu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> C:\Users\Simu\.ivy2\cache\org.scala-sbt\collections_2.12\jars\collections_2.12-1.0.2.jar
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> C:\Users\Simu\.ivy2\cache\org.scala-sbt\command_2.12\jars\command_2.12-1.0.2.jar
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> C:\Users\Simu\.ivy2\cache\org.scala-sbt\main-settings_2.12\jars\main-settings_2.12-1.0.2.jar
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> C:\Users\Simu\.ivy2\cache\org.scala-sbt\main_2.12\jars\main_2.12-1.0.2.jar
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> C:\Users\Simu\.ivy2\cache\org.scala-sbt\util-position_2.12\jars\util-position_2.12-1.0.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> main.scala.HelloPlugin
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> main.scala.HelloPlugin$
+used names:
+46 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> +=
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> <init>
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> <repeated>
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> A
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Any
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Append
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> AutoPlugin
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Command
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Def
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Function0
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Function1
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> HelloPlugin
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Help
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Initialize
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> InitializeInstance
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Int
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Keys
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> LinePosition
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Nothing
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Predef
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Seq
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Sequence
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Setting
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> SettingKey
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> SourcePosition
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> State
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> String
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> T
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> U
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Unit
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> V
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> Value
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> append1
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> appendSeq
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> apply
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> collection
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> command
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> commands
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> helloCommand
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> main
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> package
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> println
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> pure
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> sbt
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> scala
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> state
+product stamps:
+2 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\target\scala-2.12\sbt-1.0\classes\main\scala\HelloPlugin$.class -> lastModified(1509805265516)
+D:\Dateien\IntelliJ_Projects\OGMPlugin\target\scala-2.12\sbt-1.0\classes\main\scala\HelloPlugin.class -> lastModified(1509805265506)
+source stamps:
+1 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> hash(3e857c8b20ac28e86b461bc05048dbde95e8a0cf)
+binary stamps:
+6 items
+C:\Users\Simu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar -> lastModified(1500979666000)
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\collections_2.12\jars\collections_2.12-1.0.2.jar -> lastModified(1505591300000)
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\command_2.12\jars\command_2.12-1.0.2.jar -> lastModified(1505591297000)
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\main-settings_2.12\jars\main-settings_2.12-1.0.2.jar -> lastModified(1505591290000)
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\main_2.12\jars\main_2.12-1.0.2.jar -> lastModified(1505591309000)
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\util-position_2.12\jars\util-position_2.12-1.0.1.jar -> lastModified(1503697400000)
+class names:
+6 items
+C:\Users\Simu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar -> scala.collection.generic.GenericCompanion
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\collections_2.12\jars\collections_2.12-1.0.2.jar -> sbt.internal.util.Init
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\command_2.12\jars\command_2.12-1.0.2.jar -> sbt.Command
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\main-settings_2.12\jars\main-settings_2.12-1.0.2.jar -> sbt.Def$
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\main_2.12\jars\main_2.12-1.0.2.jar -> sbt.AutoPlugin
+C:\Users\Simu\.ivy2\cache\org.scala-sbt\util-position_2.12\jars\util-position_2.12-1.0.1.jar -> sbt.internal.util.LinePosition$
+internal apis:
+1 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwiNNPgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEzrCv3QABmlzUm9vdHNxAH4ADCvpZHl0AAZub3RpZnlzcQB+AAyKC0jedAAVcHJvamVjdENvbmZpZ3VyYXRpb25zc3EAfgAMpfNGRnQABHdhaXRzcQB+AAy54ewIdAAPZGVyaXZlZFByb2plY3Rzc3EAfgAM6R0+s3QADSRhc0luc3RhbmNlT2ZzcQB+AAxLpYLqdAAFZW1wdHlzcQB+AAx5ngl6dAANZXh0cmFQcm9qZWN0c3NxAH4ADGcoN+F0AAZlcXVhbHNzcQB+AAx+9VaZdAAJbm9UcmlnZ2Vyc3EAfgAMgGjmA3QADGFzSW5zdGFuY2VPZnNxAH4ADM1i0up0AAxzeW5jaHJvbml6ZWRzcQB+AAzo/XDrdAAHdW5hcnlfIXNxAH4ADCqw2Tx0AAVsYWJlbHNxAH4ADNLlX950AA0kaXNJbnN0YW5jZU9mc3EAfgAM13L7inQADGhlbGxvQ29tbWFuZHNxAH4ADFjn0g90AA9hbGxSZXF1aXJlbWVudHNzcQB+AAxjVWfWdAAPaXNBbHdheXNFbmFibGVkc3EAfgAM4ampk3QAC0hlbGxvUGx1Z2luc3EAfgAMSihlwHQACW5vdGlmeUFsbHNxAH4ADH8WHap0AAxpc0luc3RhbmNlT2ZzcQB+AAxlfPqFdAAOZ2xvYmFsU2V0dGluZ3NzcQB+AAz0XXnhdAAPcHJvamVjdFNldHRpbmdzc3EAfgAMMX+cZXQAAj09c3EAfgAMSxMN6nQABWNsb25lc3EAfgAMgbRnRXQABiRpbml0JHNxAH4ADCwAnOh0AAh0b1N0cmluZ3NxAH4ADE9LEKB0AAhyZXF1aXJlc3NxAH4ADOKaGlZ0AAIhPXNxAH4ADCUJJUx0AAImJnNxAH4ADNfRYjB0AAhnZXRDbGFzc3NxAH4ADFAArk10AAJuZXNxAH4ADBzd5uR0AA1idWlsZFNldHRpbmdzc3EAfgAMGnzzT3QAAmVxc3EAfgAMOdCAWHQAAiMjc3EAfgAMb9Sf+3QACGZpbmFsaXplc3EAfgAMirriQnQACGhhc2hDb2Rlc3EAfgAMYhYte3QAB3RyaWdnZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWbWFpbi5zY2FsYS5IZWxsb1BsdWdpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ae3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIBzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXEAfgBeAAAAAHNxAH4Ae3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Af3QACkF1dG9QbHVnaW5zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgCMdAAQUGx1Z2luc0Z1bmN0aW9uc3EAfgCSc3EAfgCMdAAFQmFzaWNzcQB+AIx0AAdQbHVnaW5zcQB+AJJzcQB+AIx0AAdQbHVnaW5zcQB+AJJzcQB+AIx0AAZPYmplY3RzcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYdAAEamF2YXNxAH4AmHQABGxhbmdxAH4AnXNxAH4AjHQAA0FueXNxAH4AkHNxAH4Ak3VxAH4AlgAAAAJzcQB+AJh0AAVzY2FsYXEAfgCddXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAEbWFpbnNxAH4AuHQACm1haW4uc2NhbGFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV+HaA+wdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASEQ6XERhdGVpZW5cSW50ZWxsaUpfUHJvamVjdHNcT0dNUGx1Z2luXHRhcmdldFxzY2FsYS0yLjEyXHNidC0xLjBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD6FfIsgrCjoa0YbwFBI296V6KDP
+external apis:
+0 items
+source infos:
+1 items
+D:\Dateien\IntelliJ_Projects\OGMPlugin\src\main\scala\MySBTPlugin.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX4djtUN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEQ6XERhdGVpZW5cSW50ZWxsaUpfUHJvamVjdHNcT0dNUGx1Z2luXHRhcmdldFxzY2FsYS0yLjEyXHNidC0xLjBcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX4doD7B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEQ6XERhdGVpZW5cSW50ZWxsaUpfUHJvamVjdHNcT0dNUGx1Z2luXHRhcmdldFxzY2FsYS0yLjEyXHNidC0xLjBcY2xhc3Nlc3QAAS8=
